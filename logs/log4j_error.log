@@ -1,0 +1,4 @@
+[ ERROR ] 2018-10-10 15:22:47,293 method:com.log4j.demo.Log4jTest.main(Log4jTest.java:13)
+我是第一个日志error
+[ FATAL ] 2018-10-10 15:22:47,294 method:com.log4j.demo.Log4jTest.main(Log4jTest.java:14)
+这个世界出事了

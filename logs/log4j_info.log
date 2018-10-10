@@ -1,0 +1,6 @@
+[ DEBUG ] 2018-10-10 15:22:47,291 method:com.log4j.demo.Log4jTest.main(Log4jTest.java:10)
+我是第一个日志debug
+[ INFO  ] 2018-10-10 15:22:47,292 method:com.log4j.demo.Log4jTest.main(Log4jTest.java:11)
+我是第一个日志
+[ WARN  ] 2018-10-10 15:22:47,293 method:com.log4j.demo.Log4jTest.main(Log4jTest.java:12)
+我是第一个日志
